@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <cstring>
-
 using namespace std;
 
 string rotating(int len, char arr[], int space){
