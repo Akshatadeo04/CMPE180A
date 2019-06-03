@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551242221 source:c:\users\wel come\desktop\asteroidproblem\main.cpp
+	<iostream>
+	<vector>
+
+1551422261 source:c:\akshata\courses\ds & algorithm c++\programs\asteroidproblem\main.cpp
+	<iostream>
+	<vector>
+
+1551425999 source:c:\akshata\courses\spring19\ds & algorithm c++\programs\asteroidproblem\main.cpp
+	<iostream>
+	<vector>
+
